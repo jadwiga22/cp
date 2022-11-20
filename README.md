@@ -1,4 +1,4 @@
-# Competetive programming
+# Competitive programming
 
 Here are some codes written by myself in high school when I was preparing for Polish Olympiad in Informatics.
 
